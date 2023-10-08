@@ -1,6 +1,5 @@
 # Temporary files
-
-
+temporary_images/*
 .cache/
 logs/
 *.log
